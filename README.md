@@ -34,7 +34,7 @@ Curious about how it works? Watch our demo video to see Rights Whiz in action!
 This project wouldn’t be possible without the contributions from the amazing team behind it. Check out their GitHub profiles for more details:  
 - [Kishore Muruganantham](https://github.com/KishoreMuruganantham) 👨‍💻  
 - [Mugundhan Y](https://github.com/MugundhanY) 👨‍💻  
-- [Mukundh A P](https://github.com/Bottleneck44) 👨‍💻  
+- [Ananda D](https://github.com/Bottleneck44) 👨‍💻  
 
 ---
 
